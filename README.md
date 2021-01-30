@@ -1,6 +1,6 @@
 <a href="https://github.com/ksrnnb">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=ksrnnb&theme=react">
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=ksrnnb&theme=vue&show_icons=true">
 </a>
-<a style="margin-left: 20px" href="https://github.com/ksrnnb">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksrnnb&theme=react">
+<a href="https://github.com/ksrnnb">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksrnnb&theme=vue">
 </a>
