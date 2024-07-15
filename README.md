@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🥦 okarin
 
-<!--
-**ksrnnb/ksrnnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- **Current Position**: Software Engineer at [株式会社ハイヤールー](https://hireroo.io/)
+- **Specialization**: Golang, AuthN, AuthZ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+
+- **X**: [@ksrnnb](https://x.com/okarin_dev)
+
+## 📚 Publications
+
+### Articles
+- [Go で QR コード生成を自作する](https://zenn.dev/ksrnnb/articles/25cbd71bef10c7)
+- [dodona-edu/dolos を使って類似コードを検出する](https://hireroo.io/journal/tech/similar-code-using-dolos)
+- [ローカル環境で攻撃しながら学ぶOAuth2.0](https://zenn.dev/ksrnnb/articles/697b34703a36a1)
+
+## 🏡 Communities
+- [Ehime.go](https://ehimego.connpass.com/)
