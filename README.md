@@ -7,7 +7,7 @@
 
 ## 🌐 Connect with Me
 
-- **X**: [@ksrnnb](https://x.com/okarin_dev)
+- **X**: [@okarin_dev](https://x.com/okarin_dev)
 
 ## 📚 Publications
 
